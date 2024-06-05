@@ -10,7 +10,7 @@ The main objective of this project/progam is that anyone can enter his/her age i
   And then choose the respective unit in which he wants the survival duration as an output i.e. Months,weeks,Days,Hours,Minutes,Seconds
   For unit choice you can give the respective numeric serial option or the unit name as mentioned above on your screen.
 
-  Program output:
+  Program output: 
 
   Welcome to the survival duration calculator
   Please Enter your age in years:10
